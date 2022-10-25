@@ -122,8 +122,8 @@ body{
     .text-storage{
         background: #ffffff;
         position: absolute;
-        top: 290px;
-        right: 255px;
+        top: 35%;
+        right: 20%;
         border-radius: 10px;
         font-weight: 700;
         font-size: 12px;
